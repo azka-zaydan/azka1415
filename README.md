@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, and JavaScript
 - 📫 How to reach me:
 - Email: rafifzaydan4@gmail.com
-- Website: [Portfolio Site](https://portofolio-app-azka.herokuapp.com/)
+- Website: [Portfolio Site](https://portfolio-azka-v1.vercel.app/)
