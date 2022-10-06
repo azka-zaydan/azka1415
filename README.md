@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, and JavaScript
 - 📫 How to reach me:
 - Email: rafifzaydan4@gmail.com
-- Website: [Portfolio Site](https://portfolio-azka-v1.vercel.app/)  
+- Website: [Portfolio Site](https://azkarafifzaydan.vercel.app/)  
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=azka1415&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
