@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azka1415
-- 👀 I’m interested in Back End Development 
-- 🌱 I’m currently learning Python, and JavaScript
+- 👋 Hi, I’m Azka
+- 👀 I’m interested in Back End Development and Front End Development
+- 🌱 I’m currently learning Python, React, and Next js
 - 📫 How to reach me:
 - Email: rafifzaydan4@gmail.com
 - Website: [Portfolio Site](https://azkarafifzaydan.vercel.app/)  
